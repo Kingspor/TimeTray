@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TimeTray.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="lunchtime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">09/24/2018 12:00:00</Value>
+    </Setting>
+    <Setting Name="breakfast" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">09/24/2018 09:00:00</Value>
+    </Setting>
+    <Setting Name="laengeBreakfast" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="laengeLunch" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="laengeArbeitszeit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="notifyCheck" Type="System.Windows.Forms.CheckState" Scope="User">
+      <Value Profile="(Default)">Checked</Value>
+    </Setting>
+    <Setting Name="notifyMinutes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="feierabend" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">09/25/2018 00:01:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
